@@ -1,0 +1,27 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter-iOS (0.1.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine`)
+  - flutter-iOS (from `../`)
+  - FlutterPluginRegistrant (from `/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine"
+  flutter-iOS:
+    :path: "../"
+  FlutterPluginRegistrant:
+    :path: "/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter-iOS: db7e4f4be686b11b2036fd7994f2e2bd4b1123cb
+  FlutterPluginRegistrant: 5f33f54e5f25444620ff39f2bdee4262d673ec7b
+
+PODFILE CHECKSUM: ff302befd0bfc33bef6570d4226ec941b2db1d31
+
+COCOAPODS: 1.5.3

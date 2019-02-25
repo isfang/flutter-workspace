@@ -1,0 +1,22 @@
+{
+  "name": "flutter-iOS",
+  "version": "0.1.0",
+  "summary": "A short description of flutter-iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/isfang/flutter-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "isfang": "fangdong@tuyasmart.com"
+  },
+  "source": {
+    "git": "https://github.com/isfang/flutter-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "flutter-iOS/Classes/**/*"
+}

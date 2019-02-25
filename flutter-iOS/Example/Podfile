@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+
+
+flutter_application_path = '/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module'
+
+target 'flutter-iOS_Example' do
+  pod 'flutter-iOS', :path => '../'
+  eval(File.read(File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')), binding)
+end
