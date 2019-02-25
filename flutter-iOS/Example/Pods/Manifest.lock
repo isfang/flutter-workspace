@@ -5,23 +5,23 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine`)
+  - Flutter (from `/Users/dong/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine`)
   - flutter-iOS (from `../`)
-  - FlutterPluginRegistrant (from `/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - FlutterPluginRegistrant (from `/Users/dong/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: "/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine"
+    :path: "/Users/dong/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/engine"
   flutter-iOS:
     :path: "../"
   FlutterPluginRegistrant:
-    :path: "/Users/dong/flutter-workspace/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+    :path: "/Users/dong/flutter-workspace/flutter-iOS/flutter_module/.ios/Flutter/FlutterPluginRegistrant"
 
 SPEC CHECKSUMS:
   Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
   flutter-iOS: db7e4f4be686b11b2036fd7994f2e2bd4b1123cb
   FlutterPluginRegistrant: 5f33f54e5f25444620ff39f2bdee4262d673ec7b
 
-PODFILE CHECKSUM: ff302befd0bfc33bef6570d4226ec941b2db1d31
+PODFILE CHECKSUM: 035e1b1bb0d4fc41c7b8ee567b4f06b77de752b8
 
 COCOAPODS: 1.5.3

@@ -120,11 +120,11 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You title  efsfs',
+              'You title',
               style: TextStyle(color: CSSColors.red),
             ),
             Text(
-              '$_counter ww',
+              '$_counter',
               style: Theme.of(context).textTheme.display1,
             ),
           ],
